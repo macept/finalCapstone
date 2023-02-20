@@ -28,7 +28,7 @@ Simply enter the two letters for the operation you would like to perform on the 
 the instructions as prompted.
 Below, you can see the "view all" menu operation in action, as the program shows all shoe objects
 instantiated from the csv file.
-![Alt text]([/relative/path/to/img.jpg?raw=true](https://github.com/macept/finalCapstone/blob/main/view_all.JPG?raw=true) "View All")
+![View All]([finalCapstone/blob/main/view_all.JPG?raw=true] "View All")
 
 4.0
 HyperionDev task, William Voce work.
